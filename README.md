@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Ygor Gomes Teixeira
+# 👋 Oi eu sou o Ygor
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP)  
 💻 Focado em crescer na área de desenvolvimento, especialmente no back-end  
